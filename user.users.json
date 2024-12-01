@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "6566e338a7fc516ddf0be904"
+  },
+  "name": "hafiz",
+  "email": "hafiz@gmail.com",
+  "password": "1234hafiz",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566e384a7fc516ddf0be90c"
+  },
+  "image": "file_1701241732865.jpg",
+  "name": "Chest Of drawers",
+  "price": "10000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566e987e3527e48fa3da2d3"
+  },
+  "image": "file_1701243271308.png",
+  "name": "sofa",
+  "price": "5000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ec4bf834c7e45e41d0afa"
+  },
+  "image": "file_1701758143158.jpg",
+  "name": "Bed",
+  "price": "40000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ec518834c7e45e41d0b01"
+  },
+  "image": "file_1701758232769.png",
+  "name": "Lunch Chair",
+  "price": "4000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ec53b834c7e45e41d0b03"
+  },
+  "image": "file_1701758267433.png",
+  "name": "side glob",
+  "price": "3000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ec55c834c7e45e41d0b05"
+  },
+  "image": "file_1701758300654.png",
+  "name": "Sitting Chair",
+  "price": "7000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ec57c834c7e45e41d0b07"
+  },
+  "image": "file_1701758332908.png",
+  "name": "Easy Soft",
+  "price": "6000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ec592834c7e45e41d0b09"
+  },
+  "image": "file_1701758354020.png",
+  "name": "Lamp",
+  "price": "2000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ec5b2834c7e45e41d0b0b"
+  },
+  "image": "file_1701758386470.png",
+  "name": "Drawing Sofa",
+  "price": "9000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656ec5cb834c7e45e41d0b0d"
+  },
+  "image": "file_1701758411370.png",
+  "name": "Room Products",
+  "price": "29000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659e218bf869856783284a3c"
+  },
+  "image": "file_1704862091267.gif",
+  "name": "undefined",
+  "price": "undefined",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659e2190f869856783284a3e"
+  },
+  "image": "file_1704862096597.gif",
+  "name": "undefined",
+  "price": "undefined",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641dffa44e78bee42918239"
+  },
+  "image": "file_1715593210682.jpg",
+  "name": "Qutab",
+  "price": "1200",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641e02144e78bee4291823b"
+  },
+  "image": "file_1715593249845.jpg",
+  "name": "Qutab",
+  "price": "1200",
+  "__v": 0
+}]
